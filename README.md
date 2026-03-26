@@ -20,8 +20,8 @@ Input all elements of the augmented matrix a[i][j].
 ## Program:
 ```
 '''Program to solve a matrix using Gaussian elimination without partial pivoting.
-Developed by: Thuleer R
-RegisterNumber: 212225230285
+Developed by: Ezhilan H
+RegisterNumber: 212225240040
 '''
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
