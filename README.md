@@ -8,13 +8,13 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-step 1: Start
-Step 2: Input size
+##step 1: Start
+##Step 2: Input size
 Read the number of unknowns n.
-Step 3: Initialize matrices
+##Step 3: Initialize matrices
 Create an augmented matrix a of size n × (n+1) filled with zeros.
 Create a solution array x of size n.
-Step 4: Read matrix elements
+##Step 4: Read matrix elements
 Input all elements of the augmented matrix a[i][j].
 
 ## Program:
